@@ -36,7 +36,7 @@ let tags = {
 const defaultMenu = {
   before: `
 ❂═══❖•ೋ•:･ﾟ✧:･ﾟ✧
-╟ꂑ 𝐻𝑎𝑖, %ucapan %name! 👋
+╟ꂑ 𝘏𝘈𝘠 𝘉𝘙𝘖, %ucapan %name! 👋
 ┗━━━•❅•°•❈
 ╔╦══• •✠•❀彡★
 ╟⌛*𝐖𝐀𝐊𝐓𝐔:* 
@@ -46,8 +46,8 @@ const defaultMenu = {
 ╟🌄 *𝐇𝐚𝐫𝐢:* %week
 ╟📅 *𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔 *𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
-╟👨‍ *𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟https://github.com/AzzBott679
+╟👨‍ *𝐘𝐓𝐎𝐰𝐧𝐞𝐫 𝐇-𝐁𝐨𝐭:*
+╟https://youtube.com/channel/UC9anY-qKnevXNj5tMOSN5Pg
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
@@ -178,34 +178,34 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedButtons: [{
              urlButton: {
                displayText: '✏️ Yt Chanel',
-               url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+               url: 'https://youtube.com/channel/UC9anY-qKnevXNj5tMOSN5Pg'
              }
 
            },
              {
              callButton: {
-               displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               displayText: '𝐇𝐏 Owner',
+               PhoneNumber: '0812-2274-6323'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '👤Owner',
+               displayText: '👤|𝐎𝐰𝐧𝐞𝐫|',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🤝 Donasi',
+               displayText: '🤝 |𝐃𝐨𝐧𝐚𝐬𝐢|',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: '📳SewaBot',
+               displayText: '📳|𝐒𝐞𝐰𝐚𝐁𝐎|',
                id: '.sc',
              }
            }]
